@@ -1,8 +1,7 @@
 # Personal Docs
-1. [world of warcraft in linux](./wow.md)
-2. lemp stack
-3. mysql stuff
-4. lemp stack
-5. laravel hosting
-6. [gnome stuff](./gnome.md)
-7. [misc](./misc.md)
+* [World of Warcraft in Linux](./wow.md)
+* [LEMP Stack in Raspbian](./lemp.md)
+* [MySQL](./mysql.md)
+* [Laravel deploy](./larvel.md) 
+* [Gnome](./gnome.md)
+* [Misc](./misc.md)
