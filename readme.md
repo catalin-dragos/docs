@@ -5,3 +5,4 @@
 4. lemp stack
 5. laravel hosting
 6. [gnome stuff](./gnome.md)
+7. [misc](./misc.md)
