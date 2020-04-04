@@ -4,3 +4,4 @@
 3. mysql stuff
 4. lemp stack
 5. laravel hosting
+6. [gnome stuff](./gnome.md)
