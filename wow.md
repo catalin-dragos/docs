@@ -95,3 +95,8 @@ Section "Device"
 EndSection
 ```
 
+## Helpful links
+1. [Screen Tearing Fix Video](https://www.youtube.com/watch?v=WWg8q_f7nI4)
+2. [Lutris WoW GitHub page](https://github.com/lutris/lutris/wiki/Game:-World-of-Warcraft)
+3. [Vulkan drivers on linux](https://linuxconfig.org/install-and-test-vulkan-on-linux)
+4. [Lutris GitHub wiki drivers page](https://github.com/lutris/lutris/wiki/Installing-drivers)
