@@ -1,4 +1,4 @@
-# personal docs
+# Personal Docs
 1. [world of warcraft in linux](./wow.md)
 2. lemp stack
 3. mysql stuff
