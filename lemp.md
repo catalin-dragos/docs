@@ -17,3 +17,8 @@ sudo apt install php
 ```
 sudo apt install mariadb-server
 ```
+
+## Install nginx
+```
+sudo apt install nginx
+```
