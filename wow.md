@@ -55,7 +55,7 @@ sudo apt-get install lutris
 * **DO NOT ENTER THEM** and close the login dialog.  
 * let the installation finish.
 * change the wine runner to the latest version
-* change the game runner to oneyou just installed
+* change the game runner to one you just installed
 * make sure it usus DXVK and make sure it uses the latest version available from the dropdown list
 * enable VKD3D and Esync
 * in system options `Disable desktop effects`
