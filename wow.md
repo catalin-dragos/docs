@@ -1,6 +1,6 @@
 # World of Warcraft in linux
 
-This guide was tested on Ubuntu 19.10 with the following PC config
+This guide was tested on Ubuntu 19.10 and 20.04 with the following PC config
 ```
 CPU:  Intel Core i5 2500k
 GPU:  Aorus AMD RX580 5gb
