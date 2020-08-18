@@ -16,7 +16,7 @@ sudo apt upgrade
 ```
 
 ## Install AMD open drivers
-Ubuntu 19.10 comes with some of the drivers come preinstalled.
+Ubuntu comes with some of the drivers come preinstalled.
 ### Enable a PPA for the latest Mesa drivers.
 ```
 sudo add-apt-repository ppa:oibaf/graphics-drivers
@@ -40,8 +40,8 @@ sudo apt install mesa-vulkan-drivers mesa-vulkan-drivers:i386
 Follow the Lutris [download page](https://lutris.net/downloads/) or use the instructions below.
 ```
 sudo add-apt-repository ppa:lutris-team/lutris
-sudo apt-get update
-sudo apt-get install lutris
+sudo apt update
+sudo apt install lutris
 ```
 
 ## Install the game
